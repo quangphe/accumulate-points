@@ -1,5 +1,5 @@
 var slider = tns({
-  container: ".slider",
+  container: ".sliderPro",
   items: 1,
   slideBy: "page",
   autoplay: false,
@@ -10,5 +10,5 @@ var slider = tns({
   autoHeight: true,
   nav: false,
   navPosition: "bottom",
-  controlsContainer: "#slider-nav",
+  controlsContainer: "#sliderPro-nav",
 });
